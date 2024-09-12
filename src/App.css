@@ -1,0 +1,17 @@
+.app {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.lotto-balls {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
